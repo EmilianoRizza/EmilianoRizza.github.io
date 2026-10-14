@@ -12,7 +12,15 @@ Department of Theoretical Physics
 Jagiellonian University  
 Kraków, Poland
 
-**Email:** [emiliano.rizza@doctoral.uj.edu.pl](mailto:emiliano.rizza@doctoral.uj.edu.pl)  
-**LinkedIn:** [linkedin.com/in/emiliano-rizza-310656262](https://www.linkedin.com/in/emiliano-rizza-310656262/)
+I use analytical and computational methods to connect quantum information, spectral dynamics and gravitational physics.
 
-I am interested in research opportunities starting in 2027 across theoretical and mathematical physics, scientific R&D, quantum technologies and quantitative modelling.
+**Email:** [emiliano.rizza@doctoral.uj.edu.pl](mailto:emiliano.rizza@doctoral.uj.edu.pl)  
+**LinkedIn:** [linkedin.com/in/emiliano-rizza-310656262](https://www.linkedin.com/in/emiliano-rizza-310656262/)  
+**ORCID:** [0009-0004-2332-5059](https://orcid.org/0009-0004-2332-5059)  
+**INSPIRE-HEP:** [inspirehep.net/authors/2155222](https://inspirehep.net/authors/2155222)
+
+---
+
+I am completing my PhD in Theoretical Physics and am interested in research opportunities starting in 2027 across theoretical and mathematical physics, scientific R&D, quantum technologies and quantitative modelling.
+
+I am particularly interested in problems involving quantum dynamics, spectral methods, mathematical modelling and complex systems, and I am open to both academic and research-oriented industry positions.
