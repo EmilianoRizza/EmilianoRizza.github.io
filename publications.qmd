@@ -1,0 +1,48 @@
+---
+title: "Publications"
+---
+
+## Preprints
+
+<div class="pub-title">The quadratic growth of Krylov spread complexity in the BTZ black hole</div>
+
+A. Bhattacharya, M. Flory, M. P. Heller, **E. Rizza**, T. Schuhmann  
+*Preprint, 2026* · arXiv:2608.09922
+
+[arXiv](https://arxiv.org/abs/2608.09922)
+
+**My contribution.** I worked primarily on the bulk side: the geometric construction, analytical and numerical implementation, early-time expansion, matching of an infinite tower of extrinsic-curvature invariants to the boundary Krylov series, and large-order/resummation analysis.
+
+## Journal articles
+
+<div class="pub-title">Lorentz symmetry violating Lifshitz-type field theories</div>
+
+**E. Rizza**, D. Zappalà  
+*Modern Physics Letters A* **37**, 2250203 (2022) · arXiv:2209.11060
+
+[arXiv](https://arxiv.org/abs/2209.11060)
+
+**My contribution.** Perturbative quantum-field-theory analysis of Lifshitz-type models with fermionic degrees of freedom, including ultraviolet power counting, loop corrections, renormalization of scalar and Yukawa-like couplings, asymptotic freedom and stability conditions.
+
+## Ongoing manuscripts and projects
+
+### Rényi second laws for charged AdS black holes
+
+A. Bernamonti, F. Galli, **E. Rizza**  
+*Manuscript in preparation*
+
+Charged extension of the Rényi second-law programme to Reissner–Nordström–AdS$_4$ black holes, including merger constraints, extremal configurations, phase structure and radiative-efficiency bounds.
+
+### Analytical reconstruction of Krylov complexity from partition functions
+
+A. Bhattacharya, M. Flory, M. P. Heller, **E. Rizza**, T. Schuhmann  
+*In preparation*
+
+Analytical reconstruction of Krylov dynamics using complementary Edgeworth and large-deviation descriptions of the thermal spectral measure.
+
+### Krylov complexity, orthogonal polynomials and the ASEP model
+
+**E. Rizza**, M. Watanabe  
+*Project in preparation; author list provisional*
+
+A project connecting Krylov-complexity recurrence structures with stochastic and integrable models, spectral edges and the weakly asymmetric ASEP/JT-KPZ regime.

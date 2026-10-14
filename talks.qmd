@@ -1,0 +1,38 @@
+---
+title: "Talks & Conferences"
+---
+
+## Invited talk
+
+**The quadratic growth of Krylov spread complexity in the BTZ black hole**  
+9th Holography, String Theory and Observational Cosmology · Chiang Mai, Thailand · August 2026
+
+## Contributed talks
+
+**Rényi second laws for charged AdS black holes**  
+89th Annual Meeting of the DPG Matter and Cosmos Section · Erlangen, Germany · March 2026
+
+**Maximum Entropy Principle in Quantum Mechanics, Gravity and Complexity**  
+First Kraków–Paderborn Quantum-Information Mini-Symposium · Kraków, Poland · July 2024
+
+**Lorentz symmetry violating Lifshitz-type field theories**  
+Cracow School of Theoretical Physics · Zakopane, Poland · June 2024
+
+**Lorentz symmetry violating Lifshitz-type field theories**  
+DPG Spring Meeting of the Condensed Matter Section · Berlin, Germany · March 2024
+
+## Posters
+
+**Rényi second laws for charged AdS black holes**  
+EUROSTRINGS 2026 – COST Action Theory-Challenges General Meeting · Athens, Greece · May 2026
+
+**Rényi second laws for charged AdS black holes**  
+XXVII Giambiagi Winter School – Holography, Black Holes and Information Theory · Buenos Aires, Argentina · July 2025
+
+## Selected schools and meetings
+
+- Iberian Strings'25 · Bilbao, Spain · January 2025
+- LACES 2024 – Lezioni Avanzate di Campi e Stringhe · Florence, Italy · November–December 2024
+- 9th Conference of the Polish Society on Relativity · Kraków, Poland · September 2023
+- 29th WE-Heraeus Summer School “Saalburg” · Bavaria, Germany · September 2023
+- Quantum Entanglement in High Energy Physics · Kraków, Poland · May 2023

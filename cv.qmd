@@ -1,0 +1,50 @@
+---
+title: "CV"
+format:
+  html:
+    toc: false
+---
+
+## Current position
+
+**PhD Researcher in Theoretical Physics**  
+Jagiellonian University, Kraków · 2023–2027 (expected)  
+Project: *Quantum information aspects of holography*  
+Supervisors: Prof. Romuald Janik and Dr. Mario Flory
+
+## Education and research stays
+
+**Erasmus+ Research Stay** · University of Florence · 2024–2025  
+Project: *Rényi second laws for charged AdS black holes*
+
+**MSc in Theoretical Physics** · University of Catania · 2022  
+110/110 with honours · Thesis: *Lifshitz-type quantum field theories*
+
+**BSc in Physics and Astronomy** · University of Catania · 2020  
+110/110 with honours · Thesis: *Adiabatic Dynamics and Application to Quantum Information*
+
+## Selected skills
+
+**Scientific computing:** Wolfram Mathematica, Python, C, Matlab, LaTeX  
+**Research methods:** mathematical modelling, symbolic computation, numerical analysis, spectral methods, random matrix theory  
+**Languages:** Italian (native), English (IELTS 7.0; professional working proficiency)
+
+## Research grants
+
+**Research Support Module** · 2026  
+*Krylov spread complexity and the ASEP model*
+
+**Research Support Module** · 2025  
+*Krylov spread complexity in the DSSYK model*
+
+## Teaching
+
+Mathematics and Physics teacher, Liceo Scientifico Pietro Farinato, Enna · 2022
+
+## Downloads
+
+[Download academic CV (PDF)](files/CV_Emiliano_Rizza.pdf){.btn .btn-primary}
+
+[Download research statement (PDF)](files/Research_Statement_Emiliano_Rizza.pdf){.btn .btn-outline-primary}
+
+[Download publication list (PDF)](files/Publication_List_Emiliano_Rizza.pdf){.btn .btn-outline-primary}

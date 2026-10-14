@@ -1,0 +1,45 @@
+project:
+  type: website
+
+website:
+  title: "Emiliano Rizza"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: talks.qmd
+        text: Talks
+      - href: projects.qmd
+        text: Projects
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/emiliano-rizza-310656262/
+        aria-label: LinkedIn
+      - icon: envelope
+        href: mailto:emiliano.rizza@doctoral.uj.edu.pl
+        aria-label: Email
+  page-footer:
+    left: "© 2026 Emiliano Rizza"
+    right: "Built with Quarto and hosted on GitHub Pages"
+  search: true
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: true
+    smooth-scroll: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto

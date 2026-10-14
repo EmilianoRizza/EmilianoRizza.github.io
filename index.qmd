@@ -1,0 +1,58 @@
+---
+title: ""
+page-layout: full
+format:
+  html:
+    toc: false
+---
+
+::: {.hero}
+# Emiliano Rizza
+
+<div class="subtitle">
+Theoretical Physics PhD Researcher · Quantum Information · Holography · Spectral Methods · Scientific Computing
+</div>
+
+<div class="tagline">
+I am a PhD researcher at Jagiellonian University in Kraków, working at the intersection of quantum information, holography, mathematical physics and quantum dynamics. My research asks how thermal and spectral data encode black-hole dynamics, complexity and bulk geometry.
+</div>
+
+<div class="hero-links">
+<a href="research.html">Research</a>
+<a href="publications.html">Publications</a>
+<a href="files/CV_Emiliano_Rizza.pdf">Download CV</a>
+<a href="contact.html">Contact</a>
+</div>
+:::
+
+## Research at a glance
+
+::: {.section-grid}
+::: {.card-lite}
+### Krylov complexity & holography
+Boundary reconstruction from partition functions, BTZ black holes, DSSYK and candidate bulk observables for quantum complexity.
+:::
+
+::: {.card-lite}
+### Black-hole information
+Rényi second laws, charged AdS black holes and information-theoretic constraints on gravitational processes.
+:::
+
+::: {.card-lite}
+### Spectral & asymptotic methods
+Orthogonal polynomials, recurrence coefficients, spectral measures, large deviations and random-matrix-inspired techniques.
+:::
+
+::: {.card-lite}
+### Scientific computing
+Analytical modelling combined with symbolic and numerical workflows, primarily in Wolfram Mathematica and Python.
+:::
+:::
+
+## Current focus
+
+My recent work develops a partition-function route to Krylov dynamics and investigates how the resulting boundary behavior can be represented geometrically in the bulk. I am also working on analytical spectral reconstruction methods and on information-theoretic constraints for charged AdS black holes.
+
+::: {.callout-note}
+I expect to complete my PhD in 2027 and am interested in research opportunities in academia, scientific R&D, quantum technologies and quantitative modelling.
+:::

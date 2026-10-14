@@ -1,0 +1,18 @@
+---
+title: "Contact"
+format:
+  html:
+    toc: false
+---
+
+## Emiliano Rizza
+
+PhD Researcher in Theoretical Physics  
+Department of Theoretical Physics  
+Jagiellonian University  
+Kraków, Poland
+
+**Email:** [emiliano.rizza@doctoral.uj.edu.pl](mailto:emiliano.rizza@doctoral.uj.edu.pl)  
+**LinkedIn:** [linkedin.com/in/emiliano-rizza-310656262](https://www.linkedin.com/in/emiliano-rizza-310656262/)
+
+I am interested in research opportunities starting in 2027 across theoretical and mathematical physics, scientific R&D, quantum technologies and quantitative modelling.

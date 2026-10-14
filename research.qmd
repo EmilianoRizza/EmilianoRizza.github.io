@@ -1,0 +1,33 @@
+---
+title: "Research"
+---
+
+My research lies at the interface of **holography, quantum information, quantum field theory and mathematical physics**. A recurring question is how structures intrinsic to a boundary quantum system—partition functions, spectral measures, Krylov dynamics and generalized entropy monotones—can encode black-hole dynamics and geometry.
+
+## Krylov complexity from partition functions and bulk geometry
+
+My main recent work studies **Krylov spread complexity for thermofield-double states** and its possible holographic realization. The boundary construction starts from semiclassical holographic partition functions and reconstructs Krylov dynamics through the associated spectral data.
+
+In double-scaled SYK, the comparison between exact and semiclassical descriptions shows that the classical limit must be taken with care: taking it too early at the level of individual Lanczos coefficients can lose information that remains important after the full complexity is assembled.
+
+For a large-central-charge CFT$_2$ state dual to the BTZ black hole, the reconstructed dynamics exhibits an intermediate departure from early quadratic growth and behavior compatible with a return toward quadratic pre-saturation growth. On the bulk side, this can be matched by a generalized observable involving an infinite tower of extrinsic-curvature invariants. I view this as an existence construction rather than a unique holographic dictionary entry.
+
+## Rényi second laws and charged AdS black holes
+
+With Alice Bernamonti and Federico Galli, I am extending the **Rényi second-law programme** to Reissner–Nordström–AdS$_4$ black holes. The goal is to use the full family of Rényi entropies and the charged AdS phase structure to constrain black-hole mergers beyond what follows from the area theorem alone.
+
+The analysis includes equal, unequal and opposite charges, extremal configurations, bounds on the final mass and temperature, Hawking–Rényi monotones, and connections with radiative-efficiency estimates.
+
+## Spectral reconstruction and large-scale Krylov dynamics
+
+A second direction is to formulate Krylov dynamics directly as a problem in **spectral analysis**. Since the Lanczos recursion is the three-term recurrence relation of orthogonal polynomials associated with the state's spectral measure, one can study complexity through recurrence coefficients, spectral edges and asymptotic measures instead of generating a long finite Krylov chain first.
+
+I am developing complementary **Edgeworth** and **large-deviation** approaches. The former gives controlled perturbative access to low-order recurrence data, while the latter is designed to retain nonperturbative information such as hard spectral edges and global continuum structure.
+
+## Integrable and stochastic systems
+
+I am also interested in connections among **Krylov complexity, orthogonal polynomials and ASEP**, motivated by the relation between JT/KPZ-type physics, Askey–Wilson structures and spectral-edge universality. This direction aims to identify mechanisms of Krylov transport that are shared across holographic, many-body and stochastic systems.
+
+## Earlier work: Lifshitz-type quantum field theories
+
+My earlier work with Dario Zappalà concerned Lorentz-symmetry-violating Lifshitz-type field theories with dynamical exponent $z=3$. I worked on ultraviolet power counting, loop corrections, renormalization of scalar and Yukawa-like interactions, asymptotic freedom and the role of higher spatial derivatives in softening ultraviolet divergences.

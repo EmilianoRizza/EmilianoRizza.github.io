@@ -1,0 +1,38 @@
+---
+title: "Projects & Methods"
+---
+
+This page is intentionally broader than a publication list. It highlights the problems, mathematical tools and computational methods that I use across projects.
+
+## Holographic Krylov reconstruction
+
+**Problem.** Reconstruct Krylov spread complexity from thermal partition functions and understand whether its growth admits a geometric bulk representation.
+
+**Methods.** Lanczos recursion, spectral measures, orthogonal polynomials, high-order series, asymptotic fitting, analytical resummation, maximal-volume slices, extrinsic-curvature invariants.
+
+**Tools.** Wolfram Mathematica, symbolic manipulation, numerical root finding, asymptotic analysis and data fitting.
+
+## Charged black-hole information constraints
+
+**Problem.** Use information-theoretic monotonicity to constrain allowed black-hole merger processes in charged AdS gravity.
+
+**Methods.** Rényi entropies, black-hole thermodynamics, phase structure, extremality analysis, analytical approximations and numerical parameter scans.
+
+## Spectral reconstruction of Krylov dynamics
+
+**Problem.** Infer recurrence coefficients and continuum Krylov dynamics directly from partition-function or spectral data.
+
+**Methods.** Edgeworth expansions, large deviations, orthogonal polynomials, spectral edges, continuum asymptotics and recurrence-coefficient analysis.
+
+## Krylov complexity and stochastic systems
+
+**Problem.** Explore whether recurrence structures in solvable stochastic models can classify universality regimes of Krylov transport.
+
+**Methods.** ASEP, Askey–Wilson structures, edge universality, JT/KPZ-inspired scaling limits and integrable-model techniques.
+
+## Technical toolkit
+
+- **Wolfram Mathematica:** symbolic algebra, asymptotic series, numerical solvers, recurrence relations, high-order coefficient generation and resummation workflows.
+- **Python:** scientific computing and numerical analysis; currently expanding toward broader research and quantitative workflows.
+- **Mathematical methods:** spectral analysis, perturbation theory, orthogonal polynomials, random-matrix methods, asymptotics and statistical physics.
+- **Scientific communication:** research talks, posters, teaching and collaborative writing in international teams.
